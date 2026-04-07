@@ -1,3 +1,4 @@
-## v1.1
-- Added update 2
+# CHANGELOG
+
+This document covers CHANGELOG for this project.
 
