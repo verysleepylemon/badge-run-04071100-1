@@ -1,0 +1,3 @@
+# Contributing
+Send a PR.
+
